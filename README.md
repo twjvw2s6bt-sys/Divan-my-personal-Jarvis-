@@ -1,0 +1,1 @@
+So this is my personal Jarvis (iron man reference) inspired personal assistant. Started making it a few days ago. It should exciting to see where this goes in the future. I want it to slowly run my digital life, from emails to business proposals and just random conversations on history and philosophy.
